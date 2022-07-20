@@ -1,6 +1,5 @@
 resources:
   - all.yaml
-  - secret.yaml
 patches:
   - path: patch.yaml
     target:
